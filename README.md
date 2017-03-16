@@ -1,3 +1,13 @@
+Hello Github!!!
+===============
+
+hello world!
+------------
+
+This is my first repository.
+
+I love :dancer:; :coffee:; :pizza:;
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dianfengwuji/dianfengwuji.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
